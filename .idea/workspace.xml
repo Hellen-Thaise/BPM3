@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90b84839-68c7-4a20-811a-2c99c53a14a2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/DesafioZup - 3">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VwTjmHHWlfylarbVBqj1J6rqQ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "settings.editor.selected.configurable": "aws"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TurmaTeste.DeveRetornarOkAoAdicionarUmaPessoa">
+    <configuration name="PessoaTest.deveRetornarSucessoAdicionarPessoa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioZup.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PessoaTest" />
+      <option name="METHOD_NAME" value="deveRetornarSucessoAdicionarPessoa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PessoaTest.deveRetornarSucessoAdicionarPessoaComIDeNomeValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioZup.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PessoaTest" />
+      <option name="METHOD_NAME" value="deveRetornarSucessoAdicionarPessoaComIDeNomeValido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurmaTeste.DeveRetornarOkAoAdicionarUmaPessoa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioZup.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TurmaTeste" />
+      <option name="METHOD_NAME" value="DeveRetornarOkAoAdicionarUmaPessoa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurmaTeste.deveRetornarExcecaoPessoaExistente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioZup.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TurmaTeste" />
+      <option name="METHOD_NAME" value="deveRetornarExcecaoPessoaExistente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurmaTeste.deveRetornarSucessoRemoverTodasPessoa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioZup.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TurmaTeste" />
+      <option name="METHOD_NAME" value="deveRetornarSucessoRemoverTodasPessoa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TurmaTeste.DeveRetornarOkAoAdicionarUmaPessoa" />
+        <item itemvalue="JUnit.PessoaTest.deveRetornarSucessoAdicionarPessoaComIDeNomeValido" />
+        <item itemvalue="JUnit.PessoaTest.deveRetornarSucessoAdicionarPessoa" />
+        <item itemvalue="JUnit.TurmaTeste.deveRetornarExcecaoPessoaExistente" />
+        <item itemvalue="JUnit.TurmaTeste.deveRetornarSucessoRemoverTodasPessoa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90b84839-68c7-4a20-811a-2c99c53a14a2" name="Changes" comment="" />
+      <created>1695746279971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695746279971</updated>
+    </task>
+    <servers />
+  </component>
+</project>
